@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "pt": "Você é uma pessoa muito intensa, e até mesmo situações pequenas têm grande efeito em ti.",
+      "en": "You are an intense person, and even small situations have a great effect on you.",
+      "es": "Eres una persona muy intensa, las situaciones pequeñas tienen gran efecto en usted.",
+      "fr": "Tu es une personne très intense, et même les plus petites situations ont un grand impact sur toi.",
+      "ru": "Вы очень эмоциональный человек, и даже незначительные ситуации оказывают на вас большое влияние.",
+      "ja": "私の感情はとても強烈。小さな出来事でも深い影響を与える。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 2,
+    "question": {
+      "pt": "Você tem um forte senso de justiça.",
+      "en": "You have a strong sense of justice.",
+      "es": "Tienes un gran sentido de justicia.",
+      "fr": "Tu possèdes un sens aigu de la justice.",
+      "ru": "У вас острое чувство справедливости.",
+      "ja": "私の正義感は強い。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 3,
+    "question": {
+      "pt": "Você constantemente se vê preso em pensamentos de coisas que perdeu, ou que virá a perder.",
+      "en": "You constantly see yourself stuck on thoughts of things you lost or will lose.",
+      "es": "Te encuentras constantemente atrapado en pensamientos de cosas que has perdido o perderás.",
+      "fr": "Tu te retrouves constamment à penser aux choses que tu as perdues ou que tu vas perdre.",
+      "ru": "Вы постоянно зацикливаетесь на мыслях о том, что потеряли или потеряете.",
+      "ja": "私は失ったものと失うものを常に考え込む。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": 2,
+      "conhecimento": -1,
+      "energia": -2
+    }
+  },
+  {
+    "id": 4,
+    "question": {
+      "pt": "Você está sempre atrás de mudança, e odeia esperar.",
+      "en": "You are always after change and hate waiting.",
+      "es": "Siempre estás buscando el cambio y odias esperar. ",
+      "fr": "Tu recherches constamment le changement et détestes attendre.",
+      "ru": "Вы всегда стремитесь к переменам и ненавидите ждать.",
+      "ja": "私は変化を求めて、待つのが嫌い。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 5,
+    "question": {
+      "pt": "Você é uma pessoa que não consegue lidar com discussões, seja explodindo nos outros ou implodindo em si mesmo.",
+      "en": "You are a person who can't deal with discussions, either exploding on others or imploding on yourself.",
+      "es": "Eres una persona que no sabe cómo lidiar con las discusiones, sea explotando contra los demás o implosionando dentro de ti mismo.  ",
+      "fr": "Tu ne supportes pas les disputes, que ce soit en explosant sur les autres, ou en implosant sur toi-même.",
+      "ru": "Вы человек, который не умеет вести дискуссии, либо взрываясь на окружающих, либо замыкаясь в себе.",
+      "ja": "私は口論にうまく対処できないから他人または自分自身に怒ってしまう。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 6,
+    "question": {
+      "pt": "O sentimento de compreender um assunto completamente, é o que te move a aprender.",
+      "en": "The feeling of completely comprehending a subject is what moves you to learn.",
+      "es": "El sentimiento de comprender un tema por completo, es lo que te mueve a aprender.",
+      "fr": "Le sentiment de comprendre complètement un sujet te motive à apprendre.",
+      "ru": "Чувство полного понимания предмета – это то, что побуждает вас учиться.",
+      "ja": "何かを完全に理解したという気持ちは、学ぶ意欲を与えてくれる。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -1
+    }
+  },
+  {
+    "id": 7,
+    "question": {
+      "pt": "Perder aquilo que faz você, você, e o que mais te deixa acordado a noite.",
+      "en": "Losing what makes you, you, is what keeps you up at night.",
+      "es": "Perder lo que te hace ser tú es lo que más te mantiene despierto la noche.",
+      "fr": "Perdre ce qui fait de toi “toi” est ce qui te garde éveillé.e la nuit.",
+      "ru": "Потеря того, что делает тебя тобой, не дает тебе спать по ночам.",
+      "ja": "最悪の悪夢は私を私たらしめるものを失うこと。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -2
+    }
+  },
+  {
+    "id": 8,
+    "question": {
+      "pt": "Você gosta de sempre ter uma segunda alternativa para situações fora do seu controle",
+      "en": "You like to always have a second alternative to situations out of your control.",
+      "es": "A ti te gusta siempre tener una segunda alternativa para situaciones fuera de tu control.",
+      "fr": "Tu apprécie toujours d’avoir un plan B quand les situations sont hors de ton contrôle.",
+      "ru": "Вы любите всегда иметь запасной вариант на случай ситуаций, которые вы не можете контролировать.",
+      "ja": "自分ではコントロールできない状況に対して、常に第二の選択肢を用意しておくことを好む。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": -2,
+      "conhecimento": 1,
+      "energia": 2
+    }
+  },
+  {
+    "id": 9,
+    "question": {
+      "pt": "Sua intuição está completamente ligada às suas emoções.",
+      "en": "Your intuition is completely linked to your emotions.",
+      "es": "Tu intuición está completamente relacionada a tus emociones.",
+      "fr": "Ton intuition est totalement liée à tes émotions.",
+      "ru": "Ваша интуиция полностью связана с вашими эмоциями.",
+      "ja": "私の直感は感情と完全に結びついている。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 10,
+    "question": {
+      "pt": "A sua busca a felicidade contém aprender coisas novas.",
+      "en": "Your search for happiness contains learning new things in it.",
+      "es": "La búsqueda de la felicidad implica aprender cosas nuevas.",
+      "fr": "Ta quête du bonheur implique l’apprentissage de nouvelles choses.",
+      "ru": "Ваш поиск счастья включает в себя изучение новых вещей.",
+      "ja": "私の幸福の道に新しいことを学ぶことが含まれる。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 11,
+    "question": {
+      "pt": "Você sente que o tempo passa mais rápido do que devia.",
+      "en": "You feel that time passes faster than it should.",
+      "es": "Sientes que el tiempo pasa más rápido de lo que debería.",
+      "fr": "Tu as l'impression que le temps passe plus vite qu'il ne le devrait.",
+      "ru": "Вы чувствуете, что время идёт быстрее, чем должно.",
+      "ja": "時々私は時間が経つのが早すぎると思う。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -2
+    }
+  },
+  {
+    "id": 12,
+    "question": {
+      "pt": "Você não tem uma ideia fixa sobre o seu futuro, planejamentos a longo prazo não funcionam para você.",
+      "en": "You don't have a fixed idea about your future. Planning things in the long term does not work for you.",
+      "es": "No tienes una idea fija sobre tu futuro, planear a largo plazo no funciona para ti.",
+      "fr": "Tu n’arrives pas à garder une idée fixe de ton futur, les planifications à long terme ne fonctionnent pas pour toi.",
+      "ru": "У вас нет четкого представления о своем будущем. Долгосрочное планирование не работает для вас.",
+      "ja": "将来について明確な考えを持ってない。私は長期計画に向いてない。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 13,
+    "question": {
+      "pt": "Muitas vezes você se vê arrependido de ações que fez em um ato de impulso.",
+      "en": "You often see yourself regretful of actions  you did on impulsive acts.",
+      "es": "A menudo te encuentras arrepintiéndose de acciones que realizaste impulsivamente.",
+      "fr": "Tu regrettes souvent les actions faites sur un coup de tête.",
+      "ru": "Вы часто сожалеете о своих поступках, совершенных импульсивно.",
+      "ja": "衝動的に行動したことを何度も後悔している。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": 1,
+      "conhecimento": -2,
+      "energia": -1
+    }
+  },
+  {
+    "id": 14,
+    "question": {
+      "pt": "Você se entristece ao saber que nunca vai conseguir aprender/consumir/aproveitar tudo que o mundo pode te oferecer.",
+      "en": "You become sad knowing that you will never be able to learn/consume/enjoy all that the world has to offer to you.",
+      "es": "Te entristece saber que nunca podrás aprender/consumir/aprovechar todo que el mundo te puede ofrecer.",
+      "fr": "Tu es triste à l'idée de ne jamais pouvoir tout apprendre, tout consommer et/ou de ne jamais profiter de tout ce que le monde a à t’offrir.",
+      "ru": "Вы становитесь грустными, понимая, что никогда не сможете узнать/попробовать/насладиться всем, что мир может вам предложить.",
+      "ja": "世界の全てを学ぶ/見る/楽しむことができないと分かって悲しくなる。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -1
+    }
+  },
+  {
+    "id": 15,
+    "question": {
+      "pt": "O tempo é a única coisa que pode curar",
+      "en": "Time is the only thing that can cure.",
+      "es": "El tiempo es la única cosa que puede sanar.",
+      "fr": "Le temps est la seule chose qui peut soigner.",
+      "ru": "Время – единственная вещь, что может вылечить.",
+      "ja": "傷を癒すのは時間だけ。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -2
+    }
+  },
+  {
+    "id": 16,
+    "question": {
+      "pt": "Você é uma pessoa que está em constante mudança. Seja pessoal ou externo.",
+      "en": "You are a person that is in constant change. Be it personal or external.",
+      "es": "Eres una persona que está cambiando constantemente, sea personal o externo.",
+      "fr": "Tu es en constant changement, que ce soit interne ou externe.",
+      "ru": "Вы человек, который находится в постоянном изменении. Будь то внутреннее или внешнее.",
+      "ja": "私は常に変化する。個人的と外的も。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 17,
+    "question": {
+      "pt": "Você é uma pessoa que gosta de lidar com situações que te colocam em uma montanha russa de emoções.",
+      "en": "You are a person that likes to deal with situations that put you in a roller-coaster of emotions.",
+      "es": "Eres una persona a la que le gusta tratar de situaciones que te ponen en una montaña rusa de emociones.",
+      "fr": "Tu aimes faire face à des situations qui te plongent dans un tourbillon d'émotions.",
+      "ru": "Вы человек, который любит иметь дело с ситуациями, которые вызывают у вас бурю эмоций.",
+      "ja": "気持ちが激しく上下したり感情の波が大きい状況に対処するのが好き。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 18,
+    "question": {
+      "pt": "Você não consegue se sentir saciado e quando conquista algo, já parte para o próximo objetivo. ",
+      "en": "You can't feel satisfied, and when you achieve something, you already move on to the next goal.",
+      "es": "Usted no se siente satisfecho y cuando logras algo, pasas al siguiente objetivo.",
+      "fr": "Tu n’es jamais satisfait.e : Dès que tu termines quelque chose tu repars pour un nouvel objectif.",
+      "ru": "Вы не можете чувствовать себя удовлетворенным, и когда вы чего-то достигаете, вы уже переходите к следующей цели.",
+      "ja": "満足することができず、何かを達成すると、私はすぐに次の目標へと進んでしまう。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": -1,
+      "conhecimento": 2,
+      "energia": 1
+    }
+  },
+  {
+    "id": 19,
+    "question": {
+      "pt": "A falta de controle sobre os momentos que nunca mais podem voltar o assombra.",
+      "en": "The lack of control over the moments that can never come back haunts you.",
+      "es": "La falta de control sobre los momentos que nunca más volverán te asusta.",
+      "fr": "Le manque de contrôle sur les moments qui ne reviendront jamais te hante.",
+      "ru": "Отсутствие контроля над моментами, которые никогда не вернутся, преследует вас.",
+      "ja": "過去の出来事を制御できないことが私を動揺させる。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 20,
+    "question": {
+      "pt": "Você anseia transformação na sua vida, você odeia o repetitivo.",
+      "en": "You yearn for transformation in your life. You hate the repetitive.",
+      "es": "Anhelas la transformación en tu vida, odias lo repetitivo.",
+      "fr": "Tu aspires à une transformation dans ta vie, tu déteste les répétitions.",
+      "ru": "Вы жаждете перемен в своей жизни. Вы ненавидите однообразие.",
+      "ja": "人生の変化を切望している。繰り返しが嫌い。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  }
+]

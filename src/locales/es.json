@@ -1,0 +1,83 @@
+{
+  "header": {
+    "logo": "4 Elementos",
+    "version": "Versión",
+    "new_questions": "Nuevas preguntas",
+    "old_questions": "Preguntas antiguas",
+    "languages": "Idiomas",
+    "lang_pt": "Portugués",
+    "lang_es": "Español",
+    "lang_en": "Inglés",
+    "lang_fr": "Francés",
+    "lang_ru": "Ruso",
+    "lang_ja": "Japonés"
+  },
+  "home": {
+    "title": "Prueba de elementos<br>Orden Paranormal",
+    "start": "INICIAR PRUEBA",
+    "footer": "Proyecto no oficial de Orden Paranormal"
+  },
+  "warning": {
+    "back": "< Volver",
+    "desc_1": "¡4 Elementos es un cuestionario hecho por fans, para fans! El cuestionario cuenta con 20 preguntas de personalidad en las que intentamos encajar mejor tus respuestas con los elementos del universo.",
+    "desc_2": "Queremos resaltar que: <strong> No somos un proyecto oficial de Orden Paranormal. </strong> Somos individuos que admiramos el proyecto y quisimos hacerle un regalo a la comunidad. No tenemos ningún contacto fijo con Cellbit ni con su equipo.",
+    "desc_3": "Recomendaciones: Evita marcar la opción “neutral” para obtener un resultado más preciso. Si es necesario, utiliza el botón de “Volver” para cambiar tu ÚLTIMA respuesta.",
+    "desc_4": "¡Ponte en contacto con nosotros, mándanos un saludo en Twitter! <a class=\"rt-a\" href=\"https://x.com/Elementos04\">@Elementos04</a>",
+    "checkbox": "Leí todo porque soy una buena persona y definitivamente no solo pasé los ojos por encima y presioné el primer botón que vi solo para saltarme la parte aburrida.",
+    "proceed": "Continuar"
+  },
+  "quiz": {
+    "agree_st": "Totalmente de acuerdo",
+    "agree": "De acuerdo",
+    "neutral": "Neutral",
+    "disagree": "No estoy de acuerdo",
+    "disagree_st": "No concuerdo",
+    "back": "Volver"
+  },
+  "end_quiz": {
+    "title": "Fin de la prueba",
+    "info": "Escribe tu nombre para personalización en la página de resultados. Este paso es opcional, esta información se guardará solo en tu proprio navegador",
+    "placeholder": "Escribe tu nombre...",
+    "send_answer": "Enviar Respuesta"
+  },
+  "result": {
+    "greeting": "¡Felicitaciones! Agente { name } !",
+    "death_per": "Muerte",
+    "blood_per": "Sangre",
+    "knowledge_per": "Conocimiento",
+    "energy_per": "Energía",
+    "spectrum": "Tu espectro:",
+    "description": "Descripción"
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "Tu afinidad es con el elemento de Muerte.",
+      "phrase": "Todo tiene un comienzo y un final, y el Tiempo se lleva todas las cosas. Nada que se lleva la Muerte puede volver a ser lo que era antes.",
+      "description": "La Muerte es la entidad del tiempo. Ella busca los momentos vividos, distorsionando la percepción egoica de la existencia de cada individuo para su propio placer.<br> La distorsión temporal de la Muerte arruina la percepción carnal de la Sangre."
+    },
+    "Sangue": {
+      "affinity": "Tu afinidad es con el elemento de Sangre.",
+      "phrase": "Todo comienza con la Sangre. La Sangre es el flujo que baña la eternidad del Otro Lado",
+      "description": "La Sangre es la entidad del sentimiento. Ella busca la intensidad: dolor, obsesión, pasión, amor, hambre, odio - todo lo que implique sentir una emoción extrema agrada a la entidad de Sangre.<br>Los sentimientos extremos de la Sangre superan la razón y la calma del Conocimiento."
+    },
+    "Conhecimento": {
+      "affinity": "Tu afinidad es con el elemento de Conocimiento.",
+      "phrase": "Saberlo todo es perdelo todo.",
+      "description": "El Conocimiento es la entidad de la conciencia. Descubrir, aprender, conocer, descifrar. Tener una percepción propia del Otro Lado y sus entidades agrada al elemento de Conocimiento.<br>La razón y la lógica del Conocimiento reintegran y suprimen el caos de la Energía."
+    },
+    "Energia": {
+      "affinity": "Tu afinidad es con el elemento de Energía.",
+      "phrase": "El Caos es inevitable.",
+      "description": "La Energía es la entidad del caos. Todo lo que no puede ser explicado, lo intangible, la anarquía. El cambio constante, el calor y el frío, la luz y la oscuridad. Todo lo que implique imprevisibilidad y transformación agrada a la entidad de Energía.<br>La transformación de la Energía sobrecarga los efectos de la Muerte."
+    },
+    "Medo": {
+      "affinity": "Tu afinidad es con el elemento de Miedo.",
+      "phrase": "El Miedo es infinito.",
+      "description": "El Miedo es la entidad de lo desconocido y lo infinito. Presente desde los orígenes de la humanidad, modifica la naturaleza del universo. Su existencia diferenciada es un misterio."
+    }
+  },
+  "anfitriao": {
+    "header": "¡PRESIONE ESE BOTÓN AHORA!",
+    "body": "¡NO PRESIONE ESE BOTÓN!"
+  }
+}

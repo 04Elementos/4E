@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "pt": "Você permanece calmo e concentrado mesmo sob pressão.",
+      "en": "You remain calm and concentrated even over pressure.",
+      "es": "Permaneces tranquilo y concentrado incluso bajo presión.",
+      "fr": "Vous restez calme et concentré même sous pression. ",
+      "ru": "Вы сохраняете спокойствие и сосредоточенность даже в условиях давления.",
+      "ja": "プレッシャーを受けても私は冷静さと集中力を保つ。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 2,
+    "question": {
+      "pt": "Você raramente reflete as consequências das suas ações.",
+      "en": "You rarely reflect on the consequences of your actions.",
+      "es": "Usted casi nunca reflexiona sobre las consecuencias de tus acciones.",
+      "fr": "Vous rarement réfléchi sur les conséquences des vos actions.",
+      "ru": "Вы редко задумываетесь о последствиях своих поступков.",
+      "ja": "自分の行動の結果をほとんど反省しない。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 3,
+    "question": {
+      "pt": "Suas emoções mandam em você mais do que você manda nelas.",
+      "en": "Your emotions rule you more than you rule them.",
+      "es": "Tus emociones te gobiernan más de lo que tú las gobiernas.",
+      "fr": "Vos émotions vous contrôlent plus que vous les contrôlez.",
+      "ru": "Ваши эмоции управляют вами больше, чем вы ими.",
+      "ja": "私は感情を抑えなく、感情は私を抑える。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 4,
+    "question": {
+      "pt": "Você baseia suas ações por seus impactos no presente, não no futuro.",
+      "en": "You base your actions on their impact on the present, not in the future.",
+      "es": "Basas tus acciones en su impacto en el presente, no en el futuro.",
+      "fr": "Vous basez vos actions sur leurs impact dans le présent, pas dans le futur.",
+      "ru": "Вы основываете свои действия на их влиянии на настоящее, а не на будущее.",
+      "ja": "私の行動は、将来ではなく現在への影響に基づいて行われる。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 5,
+    "question": {
+      "pt": "Você prefere trabalhar em um time onde todos tem funções específicas.",
+      "en": "You prefer working in a team where everyone has their specific roles.",
+      "es": "Prefieres trabajar en equipo donde cada uno tiene roles específicos.",
+      "fr": "Vous préférez travailler dans un groupe oú tous avez des fonctionnels spécifiques. ",
+      "ru": "Вы предпочитаете работать в команде, где у каждого есть своя конкретная роль.",
+      "ja": "全員が特定の役割を担うチームで働くことを好む。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 6,
+    "question": {
+      "pt": "Você tende a respeitar as posições hierárquicas.",
+      "en": "You tend to respect hierarchical positions.",
+      "es": "Tienes tendencia a respetar las posiciones jerárquicas. ",
+      "fr": "Vous avez tendance à respecter les positions hiérarchiques.",
+      "ru": "Вы склонны уважать иерархию.",
+      "ja": "私は階層的な地位を尊重する。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 7,
+    "question": {
+      "pt": "Você frequentemente fica preso em seus próprios pensamentos.",
+      "en": "You frequently get stuck in your own thoughts.",
+      "es": "A menudo te encuentras atrapado en tus propios pensamientos.",
+      "fr": "Vous êtes souvent prisonnier de vos propres pensées.",
+      "ru": "Вы часто застреваете в своих мыслях.",
+      "ja": "頻繁に自分の考えにとらわれてしまう。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 8,
+    "question": {
+      "pt": "Lealdade é uma das qualidades mais admiráveis em um indivíduo.",
+      "en": "Loyalty is one of the most admirable qualities in an individual.",
+      "es": "La lealtad es una de las cualidades más admirables en un individuo.",
+      "fr": "Loyauté c’est une des qualités les plus admirables dans un individu.",
+      "ru": "Лояльность — одно из самых замечательных качеств человека.",
+      "ja": "忠誠心は個人の中で最も称賛に値する資質の一つだと思う。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 9,
+    "question": {
+      "pt": "Você enxerga as regras como uma referência, não uma obrigação.",
+      "en": "You view rules like a reference, not an obligacion.",
+      "es": "Ves las reglas como una referencia, no como una obligación.",
+      "fr": "Vous voyez les règles comme un référence, pas comme un obligation. ",
+      "ru": "Вы рассматриваете правила как справочную информацию, а не как обязательную.",
+      "ja": "ルールは義務ではなく、参考資料だ。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 10,
+    "question": {
+      "pt": "Você geralmente conta a verdade mesmo que ela machuque alguém.",
+      "en": "You usually tell the truth even if it hurts someone.",
+      "es": "Generalmente, dices la verdad, incluso si hiere a alguien.",
+      "fr": "Vous racontez généralement la vérité même si elle va faire mal à quelqu'un.",
+      "ru": "Вы обычно говорите правду, даже если это кого-то ранит.",
+      "ja": "たとえ誰かの気持ちを傷つけるとしても、たいてい真実を話す。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 11,
+    "question": {
+      "pt": "Você não seguiria uma ordem se ela ferisse os seus valores morais.",
+      "en": "You wouldn't follow an order if it's against your moral values.",
+      "es": "No seguirías una orden si esta dañara tus valores morales.",
+      "fr": "Vous ne suivrais pas un ordre s’il ferai vos valeurs morales.",
+      "ru": "Вы не будете выполнять приказ, если он противоречит вашим моральным ценностям.",
+      "ja": "命令が私の道徳に反するなら、従わない。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 12,
+    "question": {
+      "pt": "Planejamento não é a parte mais importante de uma missão.",
+      "en": "Planning is the most important part in a mission.",
+      "es": "La planificación no es la parte más importante de una misión.",
+      "fr": "Planning c’est ne pas la parte plus importante d’une mission.",
+      "ru": "Планирование — это самая важная часть миссии.",
+      "ja": "図ることは計画の中で最も重要な部分ではない。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 13,
+    "question": {
+      "pt": "Não existem inocentes do lado inimigo, todos devem ser julgados igualmente.",
+      "en": "There aren't innocents on the enemy side, everyone should be judged equally.",
+      "es": "No existe gente inocente en el bando contrario, todos deben ser juzgados de la misma manera.",
+      "fr": "Il n’y a pas d’innocents du côté ennemi, tout le monde doit être jugé également.",
+      "ru": "На стороне врага нет невиновных, всех следует судить одинаково.",
+      "ja": "敵側に無実の人はいない、全員が平等に裁かれるべきだ。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 14,
+    "question": {
+      "pt": "Pessoas que são menos efetivas que você te estressam.",
+      "en": "People who are less effective than you stress you out.",
+      "es": "Las personas que son menos efectivas que tú te estresan.",
+      "fr": "Des gens qui soyez moins effective que vous te stress.",
+      "ru": "Люди, которые менее эффективны, чем вы, вызывают у вас стресс.",
+      "ja": "私より効率が悪い人はストレスを与える。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 15,
+    "question": {
+      "pt": "Você tem dificuldade em sentir empatia pelo seu inimigo.",
+      "en": "You have difficulty in feeling empathy for your enemy.",
+      "es": "Tienes dificultad para empatizar con tu enemigo.",
+      "fr": "Vous avez difficultés à sense empathie sur votre ennemi.",
+      "ru": "Вам трудно сопереживать врагу.",
+      "ja": "敵に対して共感を感じることは難しい。"
+    },
+    "effect": {
+      "sangue": 2,
+      "morte": -2,
+      "conhecimento": -1,
+      "energia": 1
+    }
+  },
+  {
+    "id": 16,
+    "question": {
+      "pt": "Você acredita que não deve explicar suas ações se você tomou a ação correta.",
+      "en": "You believe that you don't have to explain your actions if you took the right one.",
+      "es": "Crees que no tienes que explicar tus acciones si hiciste lo correcto.",
+      "fr": "Vous croyez que vous ne devez pas expliquer vos actions si vous avez pris la bonne action.",
+      "ru": "Вы считаете, что не нужно объяснять свои действия, если вы поступили правильно.",
+      "ja": "正しい行動をとったのであれば、その行動を説明する必要はないと信じている。"
+    },
+    "effect": {
+      "sangue": -1,
+      "morte": 1,
+      "conhecimento": 2,
+      "energia": -2
+    }
+  },
+  {
+    "id": 17,
+    "question": {
+      "pt": "Você tem dificuldade em trabalhar com novos grupos.",
+      "en": "You have difficulty working in new groups",
+      "es": "Tienes dificultades para trabajar con nuevos equipos.",
+      "fr": "Vous avez des difficultés à travailler en groupe.",
+      "ru": "Вам трудно работать в новых группах.",
+      "ja": "新しいグループで働くのは難しい。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 18,
+    "question": {
+      "pt": "Você tende a tomar ações práticas.",
+      "en": "You tend to take practical actions.",
+      "es": "Tienes tendencia a tomar acciones prácticas.",
+      "fr": "Vous avez tendance à prendre des mesures concrètes.",
+      "ru": "Вы склонны к практическим действиям.",
+      "ja": "実際的な行動は最高。"
+    },
+    "effect": {
+      "sangue": -2,
+      "morte": 2,
+      "conhecimento": 1,
+      "energia": -1
+    }
+  },
+  {
+    "id": 19,
+    "question": {
+      "pt": "Se o resultado for positivo, pouco importa o meio.",
+      "en": "If the result is positive, the means doesn't matter.",
+      "es": "Si el resultado es positivo, el medio no importa.",
+      "fr": "Si le résultat est positif, peu importe le moyen utilisé. ",
+      "ru": "Если результат положительный, средства не имеют значения.",
+      "ja": "結果が良いなら、手段はそれほど重要ではない。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  },
+  {
+    "id": 20,
+    "question": {
+      "pt": "Você não se esforça em planejar ações.",
+      "en": "You don't take effort into planning your actions.",
+      "es": "No pones ningún esfuerzo en planificar acciones.",
+      "fr": "Vous ne faites aucun effort pour planifier d’actions.",
+      "ru": "Вы не прилагаете усилий к планированию своих действий.",
+      "ja": "私の行動を計画することに努力を払ってない。"
+    },
+    "effect": {
+      "sangue": 1,
+      "morte": -1,
+      "conhecimento": -2,
+      "energia": 2
+    }
+  }
+]

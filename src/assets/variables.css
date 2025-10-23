@@ -1,0 +1,43 @@
+/* Fontes feita por @Trakoll */
+@font-face {
+  font-family: 'Sigilos';
+  src: url('../assets/fonts/Sigilos-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'SigilosEstrageiro';
+  src: url('../assets/fonts/SinaisEstrangeiro-Regular.ttf');
+}
+
+:root {
+  --background-image: url('');
+  
+  /* Estilo Padrão */
+  --border-default: 1px solid #ffffff8a;
+  --border-2px-default: 2px solid #ffffff8a;
+  --border-bg-hover:rgba(78, 194, 6, 0.7);
+  --font-family-default: "VT323", "dotgothic16", monospace;
+  --font-size-default: 16px;
+  --font-size-ru: 10px;
+  --font-size-ja: 13px;
+  --color-default: #fff;
+
+  /* 
+      ------ Estilos extras ------ 
+  */
+
+  /* 4E Original */
+  --border-classic: 1px solid #daa520;
+  --border-bottom-classic: 2px solid #daa520;
+  --font-family-classic: 'Special Elite', cursive;
+  --font-size-classic: 12px;
+
+  /* Sigilos e Sinais */
+  --font-family-trakoll: "Sigilos";
+  --font-family-estrangeiro: "SigilosEstrageiro";
+  --font-size-extras: 10px;
+
+  /* Eu não sei como justificar o Comic Sans  */
+  --font-family-comic-sans: "Comic Relief", system-ui;
+  --color-comic-sans: #00ffff;
+}

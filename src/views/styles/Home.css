@@ -1,0 +1,62 @@
+.box-content {
+  margin: auto ;
+  padding: 20px;
+  font-size: 2.7rem;
+  text-align: center;
+}
+
+.start-btn {
+  width: 90%;
+  height: 7vh;
+  border: var(--border-default);
+  font-size: 1.6rem;
+  background: #000000af;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.start-btn:hover {
+  color: #000;
+  background-color: var(--border-bg-hover);
+}
+
+.footer {
+  font-size: 1.8rem;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 0 auto;
+}
+
+@media only screen and (max-width: 1200px) {
+  .box-content  {
+    font-size: 2.5rem;
+  }
+  
+  .start-btn, .footer{
+    font-size: 1.5rem;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .box-content {
+    font-size: 2.2rem;
+  }
+
+  .start-btn, .footer {
+    font-size: 1.4rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .box-content {
+    font-size: 1.8rem;
+  }
+  
+  .start-btn {
+    font-size: 1.3rem;
+  } 
+
+  .footer {
+    font-size: 1.1rem;
+  }
+}

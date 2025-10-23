@@ -1,0 +1,80 @@
+{
+  "Sejam_felizes" : "Fiquem a vontade pra traduzir para a língua que quiserem",
+  "header": {
+    "logo": "",
+    "version": "",
+    "new_questions": "",
+    "old_questions": "",
+    "languages": "",
+    "lang_pt": "",
+    "lang_es": "",
+    "lang_en": "",
+    "lang_fr": "",
+    "lang_ru": "",
+    "lang_ja": ""
+  },
+  "home": {
+    "title": "",
+    "start": "",
+    "footer": ""
+  },
+  "warning": {
+    "back": "",
+    "desc_1": "",
+    "desc_2": "",
+    "desc_3": "",
+    "desc_4": "",
+    "checkbox": "",
+    "proceed": ""
+  },
+  "quiz": {
+    "agree_st": "",
+    "agree": "",
+    "neutral": "",
+    "disagree": "",
+    "disagree_st": "",
+    "back": ""
+  },
+  "end_quiz": {
+    "title": "",
+    "info": "",
+    "placeholder": "",
+    "send_answer": ""
+  },
+  "result": {
+    "greeting": "",
+    "death_per": "",
+    "blood_per": "",
+    "knowledge_per": "",
+    "energy_per": "",
+    "spectrum": "",
+    "description": ""
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Sangue": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Conhecimento": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Energia": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    },
+    "Medo": {
+      "affinity": "",
+      "phrase": "",
+      "description": ""
+    }
+  }
+}

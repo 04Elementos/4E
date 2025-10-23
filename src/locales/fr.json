@@ -1,0 +1,85 @@
+{
+  "header": {
+    "logo": "4 Éléments",
+    "version": "Version",
+    "new_questions": "Nouvelles Questions",
+    "old_questions": "Vieilles Questions",
+    "languages": "Langues",
+    "lang_pt": "Português",
+    "lang_es": "Español",
+    "lang_en": "English",
+    "lang_fr": "Français",
+    "lang_ru": "Russe",
+    "lang_ja": "Japonais"
+  },
+  "home": {
+    "title": "Test d’Éléments<br>L’Ordre Paranormal",
+    "start": "COMMENCER LE TEST",
+    "footer": "Projet non officiel de l’ordre paranormal"
+  },
+  "warning": {
+    "back": "< Précédent",
+    "desc_1": "4 Éléments c’est un test réalisé par des fans pour des fans! Le test a 20 questions de personnalité, où nous essayons de faire correspondre au mieux vos réponses avec les éléments de l'univers. ",
+    "desc_2": "Nous soulignons que: <strong>Nous ne sommes pas un projet officiel de l’Ordre Paranormal</strong>, nous sommes des individus qui admirent le projet et qui voulait donner un cadeau pour la communauté. Nous n’avons pas de contact fixe avec Cellbit ou son équipe.",
+    "desc_3": "Recommandations: Éviter de marquer l’option &laquo;neutre&raquo; pour un résultat plus précis. Si nécessaire, utilisez le bouton &laquo;précédent&raquo; pour changer votre DERNIÈRE réponse.",
+    "desc_4": "Contactez-nous, dites-nous &laquo;salut!&raquo; sur Twitter! <a class=\"rt-a\" href=\"https://x.com/Elementos04\">@Elementos04</a>",
+    "checkbox": "J’ai tout lu car je suis une personne super cool et certainement je n’ai pas lu à la hâte et j’ai cliqué sur le premier bouton que j’ai vu juste pour éviter la partie ennuyeuse.",
+    "proceed": "Procéder"
+  },
+  "quiz": {
+    "agree_st": "Tout à fait",
+    "agree": "D’accord",
+    "neutral": "Neutre",
+    "disagree": "Pas d’accord",
+    "disagree_st": "Pas du tout",
+    "back": "Précédent"
+  },
+  "end_quiz": {
+    "agree_st": "Tout à fait",
+    "agree": "D’accord",
+    "neutral": "Neutre",
+    "disagree": "Pas d’accord",
+    "disagree_st": "Pas du tout",
+    "back": "Précédent"
+  },
+  "result": {
+    "greeting": "Félicitations Agent { name } !",
+    "death_per": "Mort",
+    "blood_per": "Sang",
+    "knowledge_per": "Connaissance",
+    "energy_per": "Énergie",
+    "spectrum": "Votre spectre",
+    "description": "Description"
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "Votre affinité est avec l’élément Mort:",
+      "phrase": "Tout a un début et une fin, et le Temps prend tout. Rien de ce qui est emporté par la Mort ne peut revenir à ce qu'il était auparavant.",
+      "description": "La Mort c’est l’entité du temps. Elle cherche les moments vécus, en déformant la perception égoïque de l'existence de chaque individu à sa convenance.<br>La distorsion temporelle de la Mort ruine la perception charnelle du Sang"
+    },
+    "Sangue": {
+      "affinity": "Votre affinité est avec l’élément Sang:",
+      "phrase": "Tout commence par le Sang. Le Sang est le flux qui baigne l'éternité de l’Autre Côté.",
+      "description": "Le Sang est l'entité du sentiment. Il cherche l’intensité: la douleur, l’obsession, la passion, l’amour, la faim, la haine - tout ce qui concerne sentir une émotion extrême, cela plaît à l'entité du Sang.<br>Les sentiments extrêmes du Sang surpassent la raison et le calme de la Connaissance."
+    },
+    "Conhecimento": {
+      "affinity": "Tu possèdes une affinité avec l’élément de la Connaissance :",
+      "phrase": "Tout savoir c’est tout perdre.",
+      "description": "La Connaissance est l’entité de la conscience. Découvrir, apprendre, connaître, déchiffrer. Avoir sa propre perception de l’Autre Côté et de ses entités plaît à l’élément de Connaissance.<br>La raison et la logique de la Connaissance reintègrent et suppriment le chaos de l'Énergie."
+    },
+    "Energia": {
+      "affinity": "Tu possèdes une affinité l’élément de l’Énergie :",
+      "phrase": "Le Chaos est inévitable.",
+      "description": "L’Énergie est l’entité du chaos. Tout ce qui ne peut être expliqué, l'intangible, l’anarchie. Les changements constants, la chaleur et le froid, la lumière et les ténèbres. Tout ce qui implique l’imprévisibilité et la transformation plaît à l'entité d’Énergie.<br> La transformation de l’Énergie surcharge les effets de la Mort."
+    },
+    "Medo": {
+      "affinity": "Tu possèdes une affinité avec l’élément de la Peur :",
+      "phrase": "La Peur est infinie.",
+      "description": "La Peur est l’entité de l’inconnu et de l’infini. Présente depuis le berceau de l’humanité, elle modifie la nature même de l’univers. Son existence différente reste un mystère."
+    }
+  },
+  "anfitriao": {
+    "header": "VITE, APPUIE SUR CE BOUTON",
+    "body": "N'APPUIE PAS SUR CE BOUTON"
+  }
+}

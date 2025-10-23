@@ -1,0 +1,140 @@
+header {
+  display: flex;
+  z-index: 10;
+  align-items: center;
+  height: 80px;
+  padding: 0 8%;
+  background: rgba(0, 0, 0, 0.35);
+  border-bottom: var(--border-2px-default);
+}
+
+.logo {
+  width: 250px;
+  font-size: 2.2rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+nav {
+  flex: 1;
+  text-align: right;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  position: relative;
+  margin-left: 60px;
+}
+
+nav ul li a {
+  display: flex;
+  align-items: center;
+  font-size: 1.9rem;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: rgb(78, 194, 6);
+}
+
+.dropdown_content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  z-index: 413;
+  min-width: 150px;
+  border: var(--border-default);
+  border-radius: 2px;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.dropdown:hover .dropdown_content {
+  display: block;
+}
+
+.dropdown_content a {
+  display: flex;
+  justify-content: flex-start; 
+  align-items: center;
+  padding: 10px 15px;
+  font-size: 1.3rem;
+  text-align: left;
+  text-decoration: none;
+  white-space: nowrap; 
+}
+
+.dropdown_content a:hover,
+.dropdown_content a.active {
+  color: black;
+  background-color: rgba(78, 194, 6, 0.7);
+}
+
+.dropdown_content a.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.dropdown:last-child .dropdown_content {
+  right: 0;
+  left: auto;
+}
+
+.flag-icon {
+  font-size: 0.9rem;
+  margin-right: 10px;
+}
+
+@media (max-width: 1024px) {
+  header {
+    padding: 0 5%;
+  }
+
+  .logo {
+    width: auto;
+    font-size: 1.75rem;
+  }
+
+  nav ul li {
+    margin-left: 30px;
+  }
+
+  nav ul li a {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    padding: 0 4%;
+  }
+
+  .logo {
+    font-size: 1.5rem;
+  }
+
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 0;
+    padding: 0;
+    gap: 10px;
+  }
+
+  .dropdown_content {
+    right: 0; 
+    left: auto;
+    min-width: 130px;
+    text-align: left;
+  }
+
+  .dropdown_content a {
+    display: block;
+    padding: 8px 10px;
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "header": {
+    "logo": "4 Elements",
+    "version": "Version ",
+    "new_questions": "New questions",
+    "old_questions": "Old questions",
+    "languages": "Languages",
+    "lang_pt": "Portuguese",
+    "lang_es": "Spanish",
+    "lang_en": "English",
+    "lang_fr": "French",
+    "lang_ru": "Russian",
+    "lang_ja": "Japanese"
+  },
+  "home": {
+    "title": "Paranormal Order<br>Element quiz",
+    "start": "START QUIZ",
+    "footer": "Unofficial Paranormal Order project"
+  },
+  "warning": {
+    "back": "< Back",
+    "desc_1": "4 Elements is a quiz made by fans to fans! The quiz has 20 personality questions where we try to best match your answers with the elements of the universe.",
+    "desc_2": "We would like to emphasize that: <strong>We are not an official Paranormal Order project.</strong> We are individuals who admire the project and wanted to make a gift to the community. We have no fixed contact with Cellbit or its team.",
+    "desc_3": "Recommendations: Avoid selecting the “neutral” option for a more accurate result. If necessary, use the “back” button to change your LAST answer.",
+    "desc_4": "Get in touch with us, send a hi on twitter! <a class=\"rt-a\" href=\"https://x.com/Elementos04\">@Elementos04</a>",
+    "checkbox": "I’ve read everything because I'm a nice person and definitely did not just skim thought and clicked in the first button I saw just to skip this boring part",
+    "proceed": "Proceed"
+  },
+  "quiz": {
+    "agree_st": "Completely agree",
+    "agree": "Agree",
+    "neutral": "Neutral",
+    "disagree": "Disagree",
+    "disagree_st": "Completely disagree",
+    "back": "Back"
+  },
+  "end_quiz": {
+    "title": "End of quiz",
+    "info": "Enter your name for a personalized results page. This is an optional step, this information will only be registered on your own browser.",
+    "placeholder": "Enter your name…",
+    "send_answer": "Send reply."
+  },
+  "result": {
+    "greeting": "Congratulations agent { name } !",
+    "death_per": "Death",
+    "blood_per": "Blood",
+    "knowledge_per": "Knowledge",
+    "energy_per": "Energy",
+    "spectrum": "Your spectrum:",
+    "description": "Description"
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "Your affinity is with the Death element:",
+      "phrase": "Everything has a beginning and an end, and Time takes all things. Nothing that is taken by Death can ever return what it was before.",
+      "description": "Death is the entity of time. It seeks out the moments experienced, distorting the egoic perception of each individual 's existence to its own liking.<br>Death's temporal distortion ruins the carnal perception of Blood"
+    },
+    "Sangue": {
+      "affinity": "Your affinity is with the Blood element:",
+      "phrase": "It all starts with Blood. The Blood is the flow that drenches the Other Side’s eternity",
+      "description": "Blood is the entity of feelings. It seeks the intensity: pain, obsession, passion, love, hunger, hatred - all that involves feeling an extreme emotion pleases the Blood entity.<br>The extreme feeling of Blood overcomes the reason and calm of Knowledge."
+    },
+    "Conhecimento": {
+      "affinity": "Your affinity is with the Knowledge element:",
+      "phrase": "Knowing everything is losing everything.",
+      "description": "Knowledge is the entity of consciousness. Discover, learning, knowing, decipher. Having your own perception of the Other Side and your entities pleases the Knowledge element.<br>The reason and logic of Knowledge reintegrate and suppress the chaos of Energy."
+    },
+    "Energia": {
+      "affinity": "Your affinity is with the Energy element:",
+      "phrase": "The Chaos is inevitable.",
+      "description": "Energy is the entity of chaos. Everything that cannot be explained, the intangible, anarchy. Constant change, heat and cold, light and darkness. Everything that involves unpredictability and transformation pleases the entity of Energy.<br>Energy transformation supercharges the effects of Death."
+    },
+    "Medo": {
+      "affinity": "Your affinity is with the Fear element:",
+      "phrase": "Fear is infinite.",
+      "description": "Fear is the entity of the unknown and the infinite. Present since the dawn of humanity, it modifies the nature of the universe. Its differentiated existence is a mystery."
+    }
+  },
+  "anfitriao": {
+    "header": "JUST PRESS THIS BUTTON",
+    "body": "DO NOT PRESS THIS BUTTON"
+  }
+}

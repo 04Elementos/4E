@@ -1,0 +1,41 @@
+/* Utilizada apenas para Japonês e Russo*/
+
+.question-index {
+    font-size: 26px;
+}
+
+.warning-twitter{
+    font-size: 24px;
+}
+
+.warning-ru-number {
+    font-size: 22px;
+}
+
+.warning-ja-words{
+    font-size: 24px;
+}
+
+@media only screen and (max-width: 992px) {
+    .question-index {
+        font-size: 24px;
+    }
+    .warning-twitter{
+        font-size: 22px;
+    }
+    .warning-ru-number {
+        font-size: 20px;
+    }
+    .warning-ja-words{
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .question-index {
+        font-size: 21px;
+    }
+    .warning-ru-number {
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "header": {
+    "logo": "神秘学ノ四元素",
+    "version": "バージョン",
+    "new_questions": "新しい質問",
+    "old_questions": "以前の質問",
+    "languages": "言語",
+    "lang_pt": "ポルトガル語",
+    "lang_es": "スペイン語",
+    "lang_en": "英語",
+    "lang_fr": "フランス語",
+    "lang_ru": "ロシア語",
+    "lang_ja": "日本語"
+  },
+  "home": {
+    "title": "神秘学ノ四元素の性格診断テスト<br>Ordem Paranormal",
+    "start": "はじめる",
+    "footer": "Ordem Paranormalの非公式プロジェクト"
+  },
+  "warning": {
+    "back": "< もどる",
+    "desc_1": "神秘学ノ四元素テストはファンのためのファンメードプロジェクトです！ ２０質問性格診断テストであなたの回答を<span class=\"warning-ja-words\">Ordem Paranormal</span>の神秘学ノ元素と関連付けます。",
+    "desc_2": "注意: <strong><span class=\"warning-ja-words\">Ordem Paranormal</span>の非公式プロジェクトです。</strong>我々はプロジェクトのファンで、ファンの皆さんにプレゼントをあげます。 <span class=\"warning-ja-words\">Cellbit</span>氏と<span class=\"warning-ja-words\">Ordem Paranormal</span>のチームとは長期的な連絡方法を取っていません。",
+    "desc_3": "おすすめ: 正確な結果を得るために「中立」と答えない方がいいです。必要なら、「もどる」ボタンを押して前の回答を変更します。",
+    "desc_4": "<span class=\"warning-ja-words\">Twitter</span>で挨拶してね! <a class=\"rt-a warning_twitter\" href=\"https://x.com/Elementos04\">@Elementos04</a>",
+    "checkbox": "私はカッコイイ人ので完全に読んで、退屈な部分を飛ばすように最初に見たボタンをクリックしませんでした。",
+    "proceed": "つぎに"
+  },
+  "quiz": {
+    "agree_st": "絶対そう思う",
+    "agree": "そう思う",
+    "neutral": "中立",
+    "disagree": "そう思わない",
+    "disagree_st": "全然そう思わない",
+    "back": "もどる"
+  },
+  "end_quiz": {
+    "title": "テスト終了",
+    "info": "名前を入力したら、結果ページがパーソナライズされます。 このステップは任意で、情報はブラウザにのみ記録されます。",
+    "placeholder": "名前を入力してください",
+    "send_answer": "答えを送る"
+  },
+  "result": {
+    "greeting": "さすが、エージェント{ name }さん！",
+    "death_per": "死",
+    "blood_per": "血",
+    "knowledge_per": "知",
+    "energy_per": "力",
+    "spectrum": "あなたのスペクトル",
+    "description": "説明"
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "あなたの神秘学ノ元素は「死」",
+      "phrase": "「全終全始。やがて万物は死に絶えて、死に触されたことは元には戻れない」",
+      "description": "「死」は、時間のエンティティ。人の時間知覚を歪めて過去と将来の瞬間を喰うものだ。<br>「死」の時間の歪みは「血」の身体的知覚を台無しにする。"
+    },
+    "Sangue": {
+      "affinity": "あなたの神秘学ノ元素は「血」",
+      "phrase": "「血から全て始める」",
+      "description": "「血」は、気持ちのエンティティ。 痛み、執着、情熱、飢餓感、憎悪とか、激しい感情が「血」を満足させる。<br>「血」の激しい感情は「知」の冷静な論理を圧倒する。"
+    },
+    "Conhecimento": {
+      "affinity": "あなたの神秘学ノ元素は「知」",
+      "phrase": "「全知全失」",
+      "description": "「知」は、意識のエンティティ。発見、学習、知識、解読。神秘学の認識ができることが「知」を満足させる。<br>「知」の理性と論理は 「力」の混乱を抑制して整える。"
+    },
+    "Energia": {
+      "affinity": "あなたの神秘学ノ元素は「力」",
+      "phrase": "「混沌は回避不能」",
+      "description": "「力」は、混沌のエンティティ。説明できないもの、無形のもの、無法。絶え間ない変化、熱と寒、光と闇。予測不可能性と変化が「力」を満足させる。<br>「力」の変化「死」の影響を圧倒する。"
+    },
+    "Medo": {
+      "affinity": "あなたの神秘学ノ元素は「恐」",
+      "phrase": "「恐怖は無限」",
+      "description": "「恐」は、未知と無限のエンティティ。人類の始まり以来存在し、現実の性質を変えるものだ。誰もその概念が分からない。"
+    }
+  },
+  "anfitriao": {
+    "header": "もう押せ！",
+    "body": "このボタンを押さないでください"
+  }
+}
