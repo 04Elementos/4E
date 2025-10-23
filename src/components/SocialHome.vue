@@ -2,7 +2,7 @@
   <a href="https://twitter.com/Elementos04">
     <img src="/src/assets/images/socials/social-twitter.png" alt="Twitter" />
   </a>
-  <a href="https://github.com/04Elementos/4elementos">
+  <a href="https://github.com/Melzris/4E">
     <img src="/src/assets/images/socials/social-github.png" alt="GitHub" />
   </a>
 </template>
