@@ -1,7 +1,6 @@
 <script setup>
 import { onBeforeMount, computed } from 'vue';
 import { Analytics } from '@vercel/analytics/vue';
-import { SpeedInsights } from "@vercel/speed-insights/vue"
 import { preloadBackgrounds } from './utils/preloadBackgrounds';
 import { useThemes } from "./composables/useThemes";
 import { useAnfitriaoPopup } from "@/utils/anfitriaoPopup";
