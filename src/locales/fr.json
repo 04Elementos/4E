@@ -35,12 +35,10 @@
     "back": "Précédent"
   },
   "end_quiz": {
-    "agree_st": "Tout à fait",
-    "agree": "D’accord",
-    "neutral": "Neutre",
-    "disagree": "Pas d’accord",
-    "disagree_st": "Pas du tout",
-    "back": "Précédent"
+    "title": "Fin du test",
+    "info": "Inscrit ton prénom pour une page de résultat personnalisée. Il s’agit d’une étape optionnelle, cette information sera enregistrée seulement sur ton propre navigateur.",
+    "placeholder": "Inscrit ton prénom...",
+    "send_answer": "Valider"
   },
   "result": {
     "greeting": "Félicitations Agent { name } !",
