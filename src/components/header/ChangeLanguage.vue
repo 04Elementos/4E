@@ -23,20 +23,24 @@ watch(locale, (newLocale) => {
     </a>
     <a href="#" @click.prevent="locale = 'es'">
         <span class="flag-icon flag-icon-es"></span>
-       {{ t('header.lang_es') }}
+        {{ t('header.lang_es') }}
     </a>
     <a href="#" @click.prevent="locale = 'fr'">
         <span class="flag-icon flag-icon-fr"></span>
         {{ t('header.lang_fr') }}
-    </a> 
-        <a href="#" @click.prevent="locale = 'ru'">
+    </a>
+    <a href="#" @click.prevent="locale = 'ru'">
         <span class="flag-icon flag-icon-ru"></span>
         {{ t('header.lang_ru') }}
-    </a> 
-        <a href="#" @click.prevent="locale = 'ja'">
+    </a>
+    <a href="#" @click.prevent="locale = 'tr'">
+        <span class="flag-icon flag-icon-tr"></span>
+        {{ t('header.lang_tr') }}
+    </a>
+    <a href="#" @click.prevent="locale = 'ja'">
         <span class="flag-icon flag-icon-jp"></span>
         {{ t('header.lang_ja') }}
-    </a> 
+    </a>
 </template>
 
 <style src="@/components/header/header.css" scoped />

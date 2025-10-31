@@ -4,6 +4,7 @@ import es from '@/locales/es.json'
 import fr from '@/locales/fr.json'
 import ru from '@/locales/ru.json'
 import ja from '@/locales/ja.json'
+import tr from '@/locales/tr.json'
 
 export default  {
     pt: pt,
@@ -11,5 +12,6 @@ export default  {
     es: es,
     fr: fr,
     ru: ru,
-    ja: ja
+    ja: ja,
+    tr: tr
 }

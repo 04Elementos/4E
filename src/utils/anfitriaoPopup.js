@@ -3,6 +3,10 @@ import { reactive } from "vue";
 const spawned = reactive([]);
 let hasSpawned = false;
 
+
+// um dia eu finalizo e 
+// adiciono comentários descentes
+
 export function useAnfitriaoPopup() {
   // margem para manter o popup dentro da tela
   const headerOffset = 85;

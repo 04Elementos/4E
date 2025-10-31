@@ -1,0 +1,84 @@
+{
+  "header": {
+    "logo": "4 Element",
+    "version": "Sürüm",
+    "new_questions": "Yeni Sorular",
+    "old_questions": "Eski Sorular",
+    "languages": "Diller",
+    "lang_pt": "Portekizce",
+    "lang_es": "İspanyolca",
+    "lang_en": "İngilizce",
+    "lang_fr": "Fransızca",
+    "lang_ru": "Rusça",
+    "lang_ja": "Japonca",
+    "lang_tr": "Türkçe"
+  },
+  "home": {
+    "title": "Ordem Paranormal<br>element testi",
+    "start": "TESTE BAŞLA",
+    "footer": "Resmi olmayan bir Ordem Paranormal projesidir."
+  },
+  "warning": {
+    "back": "< Geri",
+    "desc_1": "4 Element, hayranlar tarafından ve hayranlar için yapılmış bir testtir! Testte cevaplarınızı evrenin elementlerine en iyi şekilde uydurmaya çalıştığımız 20 kişilik sorusu bulunmaktadır. ",
+    "desc_2": "Belirtmek isteriz ki: <strong>Biz resmi bir proje değiliz.</strong>, projeye hayran olan ve topluluğa bir şey katmak isteyen insanlarız. Cellbit veya Ordem Paranormal ekibiyle herhangi bir bağlantımız bulunmamaktadır.",
+    "desc_3": "Tavsiye: Daha net bir sonuç için “nötr” seçeneğini işaretlmekten kaçının. Gerekirse SON cevabınızı değiştirmek için “geri” tuşunu kullanmaktan çekinmeyin.",
+    "desc_4": "Bizle iletişime geçin, Twitter’da selam verin! <a class=\"rt-a\" href=\"https://x.com/Elementos04\">@Elementos04</a>",
+    "checkbox": "İyi bir insan olduğum için her şeyi okudum ve kesinlikle sayfaya göz gezdirip sıkıcı kısmı atlamak için gördüğüm ilk butona basmadım.",
+    "proceed": "Devam et"
+  },
+  "quiz": {
+    "agree_st": "Kesinlikle Katılıyorum",
+    "agree": "Katılıyorum",
+    "neutral": "Nötr",
+    "disagree": "Katılmıyorum",
+    "disagree_st": "Kesinlikle Katılmıyorum",
+    "back": "Geri Dön"
+  },
+  "end_quiz": {
+    "title": "Testin sonu",
+    "info": "Kişiselleştirilmiş bir sonuç sayfası için adınızı girin. Bu tamamen isteğe bağlıdır ve girilen veri yalnızca sizin tarayıcınızda saklanacaktır.",
+    "placeholder": "İsminiz...",
+    "send_answer": "Gönder"
+  },
+  "result": {
+    "greeting": "Tebrikler Ajan { name } !",
+    "death_per": "Ölüm",
+    "blood_per": "Kan",
+    "knowledge_per": "Bilgi",
+    "energy_per": "Enerjo",
+    "spectrum": "Senin Spektrumun",
+    "description": "Tanım"
+  },
+  "elements": {
+    "Morte": {
+      "affinity": "Sen Ölüm elementine yakınlık duyuyorsun:",
+      "phrase": "Her şeyin bir başlangıcı ve sonu vardır, ve Zaman her şeyi alır. Ölüm tarafından değiştirilen hiçbir şey eski haline geri getirilemez.",
+      "description": "Ölüm zamanın varlığıdır. Önemli anıları arar, bireyin varoluşuna ilişkin egosal algıyı zevk için çarpıtır.<br>Ölüm’ün zamansal bozulması Kan’ın ilkel algısını mahveder."
+    },
+    "Sangue": {
+      "affinity": "Sen Kan elementine bir yakınlık duyuyorsun:",
+      "phrase": "Her şey Kan’la başlar. Kan, Öteki Taraf’ın sonsuzluğunu yıkayan akıştır.",
+      "description": "Kan, hislerin varlığıdır. Yoğunluk arar: Acı, takıntı, tutku, aşk, açlık, nefret- bunların hepsi Kan’ı memnun eden aşırı duygulardır.<br>Kan’ın aşırılığı Bilgi’nin mantık ve sükunetinin üstesinden gelir."
+    },
+    "Conhecimento": {
+      "affinity": "Sen Bilgi elementine bir yakınlık duyuyorsun:",
+      "phrase": "Her şeyi bilmek, her şeyi kaybetmektir.",
+      "description": "Bilgi, bilincin varlığıdır. Keşfetmek. Öğrenmek. Bilmek. Deşifre etmek. Öteki Taraf ve onun yaratıkları hakkında bilgi sahibi olmak Bilgi’yi memnun kılar.<br>Bilgi’nin mantık ve iradesi Enerji’nin kaosunu dize getirir."
+    },
+    "Energia": {
+      "affinity": "Sen Enerji elementine yakınlık duyuyorsun:",
+      "phrase": "Kaos kaçınılmazdır.",
+      "description": "Enerji kaosun varlığıdır. Açıklanamaz, elle tutulamaz her şeydir; anarşinin ta kendisidir. Devamlı bir değişimdir, sıcak ve soğuktur, ışık ve gölgelerdir. Öngörülemezliği ve değişimi içeren her şey Enerji’yi güçlendirir.<br>Enerji’nin sınırsız değişimi Ölüm’ün etkilerini bunaltır."
+    },
+    "Medo": {
+      "affinity": "Sen Korku elementine yakınlık duyuyorsun:",
+      "phrase": "Korku sonsuzdur.",
+      "description": "Korku bilinmeyenin ve sonsuz olanın varlığıdır. İnsanlığın ilkelliğinden eski bir şeyi temsil eder. Evrenin doğasını değiştirir. Bu farklı varlığı bir gizemdir."
+    }
+  },
+  "anfitriao": {
+    "header": "BU DÜĞMEYE BASIN",
+    "body": "BU DÜĞMEYE BASMAYIN"
+  }
+}

@@ -7,7 +7,8 @@
       "es": "Permaneces tranquilo y concentrado incluso bajo presión.",
       "fr": "Vous restez calme et concentré même sous pression. ",
       "ru": "Вы сохраняете спокойствие и сосредоточенность даже в условиях давления.",
-      "ja": "プレッシャーを受けても私は冷静さと集中力を保つ。"
+      "ja": "プレッシャーを受けても私は冷静さと集中力を保つ。",
+      "tr": "Yüksek baskı altında bile sakin ve odaklı kalırsın."
     },
     "effect": {
       "sangue": -1,
@@ -24,7 +25,8 @@
       "es": "Usted casi nunca reflexiona sobre las consecuencias de tus acciones.",
       "fr": "Vous rarement réfléchi sur les conséquences des vos actions.",
       "ru": "Вы редко задумываетесь о последствиях своих поступков.",
-      "ja": "自分の行動の結果をほとんど反省しない。"
+      "ja": "自分の行動の結果をほとんど反省しない。",
+      "tr": "Eylemlerinin sonuçları üzerine nadiren düşünürsün."
     },
     "effect": {
       "sangue": 1,
@@ -41,7 +43,8 @@
       "es": "Tus emociones te gobiernan más de lo que tú las gobiernas.",
       "fr": "Vos émotions vous contrôlent plus que vous les contrôlez.",
       "ru": "Ваши эмоции управляют вами больше, чем вы ими.",
-      "ja": "私は感情を抑えなく、感情は私を抑える。"
+      "ja": "私は感情を抑えなく、感情は私を抑える。",
+      "tr": "Duyguların seni, senin onları yönettiğinden daha çok yönetir."
     },
     "effect": {
       "sangue": 2,
@@ -58,7 +61,8 @@
       "es": "Basas tus acciones en su impacto en el presente, no en el futuro.",
       "fr": "Vous basez vos actions sur leurs impact dans le présent, pas dans le futur.",
       "ru": "Вы основываете свои действия на их влиянии на настоящее, а не на будущее.",
-      "ja": "私の行動は、将来ではなく現在への影響に基づいて行われる。"
+      "ja": "私の行動は、将来ではなく現在への影響に基づいて行われる。",
+      "tr": "Şu anın üzerindeki etkine göre hareket edersin, geleceğe değil."
     },
     "effect": {
       "sangue": -2,
@@ -75,7 +79,8 @@
       "es": "Prefieres trabajar en equipo donde cada uno tiene roles específicos.",
       "fr": "Vous préférez travailler dans un groupe oú tous avez des fonctionnels spécifiques. ",
       "ru": "Вы предпочитаете работать в команде, где у каждого есть своя конкретная роль.",
-      "ja": "全員が特定の役割を担うチームで働くことを好む。"
+      "ja": "全員が特定の役割を担うチームで働くことを好む。",
+      "tr": "Herkesin belirli görevleri olduğu bir takımda çalışmayı tercih edersin."
     },
     "effect": {
       "sangue": -1,
@@ -92,7 +97,8 @@
       "es": "Tienes tendencia a respetar las posiciones jerárquicas. ",
       "fr": "Vous avez tendance à respecter les positions hiérarchiques.",
       "ru": "Вы склонны уважать иерархию.",
-      "ja": "私は階層的な地位を尊重する。"
+      "ja": "私は階層的な地位を尊重する。",
+      "tr": "Genelde hiyerarşiye saygı duyarsın."
     },
     "effect": {
       "sangue": -1,
@@ -109,7 +115,8 @@
       "es": "A menudo te encuentras atrapado en tus propios pensamientos.",
       "fr": "Vous êtes souvent prisonnier de vos propres pensées.",
       "ru": "Вы часто застреваете в своих мыслях.",
-      "ja": "頻繁に自分の考えにとらわれてしまう。"
+      "ja": "頻繁に自分の考えにとらわれてしまう。",
+      "tr": "Sık sık kendi düşüncelerinde kaybolursun."
     },
     "effect": {
       "sangue": -2,
@@ -126,7 +133,8 @@
       "es": "La lealtad es una de las cualidades más admirables en un individuo.",
       "fr": "Loyauté c’est une des qualités les plus admirables dans un individu.",
       "ru": "Лояльность — одно из самых замечательных качеств человека.",
-      "ja": "忠誠心は個人の中で最も称賛に値する資質の一つだと思う。"
+      "ja": "忠誠心は個人の中で最も称賛に値する資質の一つだと思う。",
+      "tr": "Sadakat bir insanda olabilecek en önemli özelliklerden biridir."
     },
     "effect": {
       "sangue": 2,
@@ -143,7 +151,8 @@
       "es": "Ves las reglas como una referencia, no como una obligación.",
       "fr": "Vous voyez les règles comme un référence, pas comme un obligation. ",
       "ru": "Вы рассматриваете правила как справочную информацию, а не как обязательную.",
-      "ja": "ルールは義務ではなく、参考資料だ。"
+      "ja": "ルールは義務ではなく、参考資料だ。",
+      "tr": "Kuralları bir zorunluluktansa referans olarak görürsün."
     },
     "effect": {
       "sangue": 1,
@@ -160,7 +169,8 @@
       "es": "Generalmente, dices la verdad, incluso si hiere a alguien.",
       "fr": "Vous racontez généralement la vérité même si elle va faire mal à quelqu'un.",
       "ru": "Вы обычно говорите правду, даже если это кого-то ранит.",
-      "ja": "たとえ誰かの気持ちを傷つけるとしても、たいてい真実を話す。"
+      "ja": "たとえ誰かの気持ちを傷つけるとしても、たいてい真実を話す。",
+      "tr": "Birinin canını yakacaksa bile doğruyu söylersin."
     },
     "effect": {
       "sangue": -1,
@@ -177,7 +187,8 @@
       "es": "No seguirías una orden si esta dañara tus valores morales.",
       "fr": "Vous ne suivrais pas un ordre s’il ferai vos valeurs morales.",
       "ru": "Вы не будете выполнять приказ, если он противоречит вашим моральным ценностям.",
-      "ja": "命令が私の道徳に反するなら、従わない。"
+      "ja": "命令が私の道徳に反するなら、従わない。",
+      "tr": "Eğer etik değerlerine aykırıysa bir emri dinlemezsin."
     },
     "effect": {
       "sangue": 2,
@@ -194,7 +205,8 @@
       "es": "La planificación no es la parte más importante de una misión.",
       "fr": "Planning c’est ne pas la parte plus importante d’une mission.",
       "ru": "Планирование — это самая важная часть миссии.",
-      "ja": "図ることは計画の中で最も重要な部分ではない。"
+      "ja": "図ることは計画の中で最も重要な部分ではない。",
+      "tr": "Planlama görevin en önemli kısmıdır."
     },
     "effect": {
       "sangue": 1,
@@ -211,7 +223,8 @@
       "es": "No existe gente inocente en el bando contrario, todos deben ser juzgados de la misma manera.",
       "fr": "Il n’y a pas d’innocents du côté ennemi, tout le monde doit être jugé également.",
       "ru": "На стороне врага нет невиновных, всех следует судить одинаково.",
-      "ja": "敵側に無実の人はいない、全員が平等に裁かれるべきだ。"
+      "ja": "敵側に無実の人はいない、全員が平等に裁かれるべきだ。",
+      "tr": "Düşman tarafında masum yoktur, herkes aynı şekilde yargılanmalıdır."
     },
     "effect": {
       "sangue": 2,
@@ -228,7 +241,8 @@
       "es": "Las personas que son menos efectivas que tú te estresan.",
       "fr": "Des gens qui soyez moins effective que vous te stress.",
       "ru": "Люди, которые менее эффективны, чем вы, вызывают у вас стресс.",
-      "ja": "私より効率が悪い人はストレスを与える。"
+      "ja": "私より効率が悪い人はストレスを与える。",
+      "tr": "Senden daha az efektif olan insanlar seni strese sokuyor."
     },
     "effect": {
       "sangue": -2,
@@ -245,7 +259,8 @@
       "es": "Tienes dificultad para empatizar con tu enemigo.",
       "fr": "Vous avez difficultés à sense empathie sur votre ennemi.",
       "ru": "Вам трудно сопереживать врагу.",
-      "ja": "敵に対して共感を感じることは難しい。"
+      "ja": "敵に対して共感を感じることは難しい。",
+      "tr": "Düşmana karşı empati hissetmekte zorlanırsın."
     },
     "effect": {
       "sangue": 2,
@@ -262,7 +277,8 @@
       "es": "Crees que no tienes que explicar tus acciones si hiciste lo correcto.",
       "fr": "Vous croyez que vous ne devez pas expliquer vos actions si vous avez pris la bonne action.",
       "ru": "Вы считаете, что не нужно объяснять свои действия, если вы поступили правильно.",
-      "ja": "正しい行動をとったのであれば、その行動を説明する必要はないと信じている。"
+      "ja": "正しい行動をとったのであれば、その行動を説明する必要はないと信じている。",
+      "tr": "Eğer doğru bir şey yaptıysan bir açıklama yapmanın gerekmediğine inanıyorsun."
     },
     "effect": {
       "sangue": -1,
@@ -279,7 +295,8 @@
       "es": "Tienes dificultades para trabajar con nuevos equipos.",
       "fr": "Vous avez des difficultés à travailler en groupe.",
       "ru": "Вам трудно работать в новых группах.",
-      "ja": "新しいグループで働くのは難しい。"
+      "ja": "新しいグループで働くのは難しい。",
+      "tr": "Yeni insanlarla çalışmakta zorlanırsın."
     },
     "effect": {
       "sangue": -2,
@@ -296,7 +313,8 @@
       "es": "Tienes tendencia a tomar acciones prácticas.",
       "fr": "Vous avez tendance à prendre des mesures concrètes.",
       "ru": "Вы склонны к практическим действиям.",
-      "ja": "実際的な行動は最高。"
+      "ja": "実際的な行動は最高。",
+      "tr": "Pratik eylemlerde bulunmaya yatkınsın."
     },
     "effect": {
       "sangue": -2,
@@ -313,7 +331,8 @@
       "es": "Si el resultado es positivo, el medio no importa.",
       "fr": "Si le résultat est positif, peu importe le moyen utilisé. ",
       "ru": "Если результат положительный, средства не имеют значения.",
-      "ja": "結果が良いなら、手段はそれほど重要ではない。"
+      "ja": "結果が良いなら、手段はそれほど重要ではない。",
+      "tr": "Sonuç pozitifse yöntemi önemli değil. Zafere giden her yol mübahtır."
     },
     "effect": {
       "sangue": 1,
@@ -330,7 +349,8 @@
       "es": "No pones ningún esfuerzo en planificar acciones.",
       "fr": "Vous ne faites aucun effort pour planifier d’actions.",
       "ru": "Вы не прилагаете усилий к планированию своих действий.",
-      "ja": "私の行動を計画することに努力を払ってない。"
+      "ja": "私の行動を計画することに努力を払ってない。",
+      "tr": "Eylemlerini planlamaya zaman ayırmazsın."
     },
     "effect": {
       "sangue": 1,
